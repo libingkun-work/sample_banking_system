@@ -6,8 +6,8 @@
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/your-username/bank-system.git
-   cd bank-system
+   git clone https://github.com/libingkun-work/sample_banking_system.git
+   cd sample_banking_system
    ```
 
 2. 创建并激活虚拟环境：
